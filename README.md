@@ -2,9 +2,17 @@
 
 ## DJI Agras Crop Sprayer Drone Dataset
 
-This dataset contains 200+ images to DJI Agras T16 & T20, T10 & T30, T20P & T40, and T50 crop sprayer drones, taken by private drone operators throughout South America and the Caribean. The images are classified by generation and drone model.
+This dataset contains 200+ images of DJI Agras crop sprayer drones taken by private drone operators throughout South America and the Caribbean. The images are classified by generation and drone model as shown in the table below.
 
----
+| Generation | Model          | Arms | Rotors | Nozzle Type               | Num of Nozzles |
+|------------|----------------|------|--------|---------------------------|----------------|
+| 02         | DJI Agras T16  | 6    | 6      | Flat Fan Pressure Nozzles | 8              |
+| 02         | DJI Agras T20  | 6    | 6      | Flat Fan Pressure Nozzles | 8              |
+| 03         | DJI Agras T10  | 4    | 4      | Flat Fan Pressure Nozzles | 4              |
+| 03         | DJI Agras T30  | 6    | 6      | Flat Fan Pressure Nozzles | 16             |
+| 04         | DJI Agras T20P | 4    | 4      | Centrifugal Nozzles       | 2              |
+| 04         | DJI Agras T40  | 4    | 8      | Centrifugal Nozzles       | 2              |
+| 05         | DJI Agras T50  | 4    | 8      | Centrifugal Nozzles       | 2/4            |
 
 ## 🖼️ Image Color and ICC Profiles
 
