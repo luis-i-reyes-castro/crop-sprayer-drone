@@ -2,15 +2,15 @@
 
 This dataset contains 200+ images of DJI Agras crop sprayer drones taken by private drone operators throughout South America and the Caribbean. The images are classified by generation and drone model as shown in the table below.
 
-| Generation | Model          | Arms | Rotors | Nozzle Type               | Num of Nozzles |
-|------------|----------------|------|--------|---------------------------|----------------|
-| 02         | DJI Agras T16  | 6    | 6      | Flat Fan Pressure Nozzles | 8              |
-| 02         | DJI Agras T20  | 6    | 6      | Flat Fan Pressure Nozzles | 8              |
-| 03         | DJI Agras T10  | 4    | 4      | Flat Fan Pressure Nozzles | 4              |
-| 03         | DJI Agras T30  | 6    | 6      | Flat Fan Pressure Nozzles | 16             |
-| 04         | DJI Agras T20P | 4    | 4      | Centrifugal Nozzles       | 2              |
-| 04         | DJI Agras T40  | 4    | 8      | Centrifugal Nozzles       | 2              |
-| 05         | DJI Agras T50  | 4    | 8      | Centrifugal Nozzles       | 2/4            |
+| Gen | Model          | Tank | Arms | Rotors | Nozzle Type         | Nozzles |
+|-----|----------------|------|------|--------|---------------------|---------|
+| 02  | DJI Agras T16  | 16L  | 6    | 6      | Pressure (Flat fan) | 8       |
+| 02  | DJI Agras T20  | 20L  | 6    | 6      | Pressure (Flat fan) | 8       |
+| 03  | DJI Agras T10  | 10L  | 4    | 4      | Pressure (Flat fan) | 4       |
+| 03  | DJI Agras T30  | 30L  | 6    | 6      | Pressure (Flat fan) | 16      |
+| 04  | DJI Agras T20P | 20L  | 4    | 4      | Centrifugal         | 2       |
+| 04  | DJI Agras T40  | 40L  | 4    | 8      | Centrifugal         | 2       |
+| 05  | DJI Agras T50  | 40L  | 4    | 8      | Centrifugal         | 2/4     |
 
 ## Anonymization and ICC Profiles
 
